@@ -1,0 +1,4 @@
+*.pkl filter=lfs diff=lfs merge=lfs -text
+export_humanlike.pkl filter=lfs diff=lfs merge=lfs -text
+export_plant.pkl filter=lfs diff=lfs merge=lfs -text
+export_shoes.pkl filter=lfs diff=lfs merge=lfs -text
